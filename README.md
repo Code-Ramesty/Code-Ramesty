@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="[URL_GAMBAR_BANNER_ANDA](https://www.canva.com/design/DAGAnZ4te5Y/6kzEwlrsTWshNbKt-juL6w/edit?utm_content=DAGAnZ4te5Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)" alt="Banner Profil">
+  <img src="<img width="1563" height="1563" alt="P" src="https://github.com/user-attachments/assets/a00a83c1-2ca6-4b56-95cf-cd11018ed431" />
+" alt="Banner Profil">
 </p>
 <h1 align="center">Halo, saya Budi Santoso 👋</h1>
 <p align="center">
