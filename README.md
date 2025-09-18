@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img width="1563" height="1563" alt="P"src="https://github.com/user-attachments/assets/ad57a85c-821c-47fa-b5cb-aa3484c80907" />"
+  <img width="1280" height="1280" alt="P"src="https://github.com/user-attachments/assets/ad57a85c-821c-47fa-b5cb-aa3484c80907" />
 </p>
 <h1 align="center">Halo, saya Ramesty 👋</h1>
 <p align="center">
