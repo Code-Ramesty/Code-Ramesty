@@ -11,7 +11,7 @@
 - 🔭 Saat ini saya sedang mengerjakan ...
 - 🌱 Saya sedang belajar tentang ...
 - 👯 Saya ingin berkolaborasi dalam proyek ...
-- 📫 Hubungi saya di: [email@contoh.com](mailto:email@contoh.com)
+- 📫 Hubungi saya di: [alvianwidi237@gmail.com](mailto:alvianwidi237@gmai.com)
 - 😄 Fakta unik: Saya bisa menyelesaikan Rubik's cube di bawah 1 menit!
 <h3 align="left">Teknologi yang Saya Gunakan:</h3>
 <p align="left">
@@ -30,7 +30,5 @@
 </p>
 <h3 align="left">Hubungi Saya:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/NAMA_PENGGUNA_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nama Pengguna Linkedin" height="30" width="40" /></a>
-<a href="https://twitter.com/USERNAME_TWITTER" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Username Twitter" height="30" width="40" /></a>
-<a href="https://instagram.com/USERNAME_INSTAGRAM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Username Instagram" height="30" width="40" /></a>
+<a href="https://instagram.com/growthal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="growthal" height="30" width="40" /></a>
 </p>
