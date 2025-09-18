@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="<img width="1563" height="1563" alt="P" src="https://github.com/user-attachments/assets/ad57a85c-821c-47fa-b5cb-aa3484c80907" />" alt="Banner Profil">
+  <img width="1563" height="1563" alt="P"src="https://github.com/user-attachments/assets/ad57a85c-821c-47fa-b5cb-aa3484c80907" />" alt="Banner Profil">
 </p>
-<h1 align="center">Halo, saya Budi Santoso 👋</h1>
+<h1 align="center">Halo, saya Ramesty 👋</h1>
 <p align="center">
   Seorang Web Developer dari Indonesia yang bersemangat dalam membangun aplikasi web yang modern dan bermanfaat.
 </p>
