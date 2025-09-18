@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="<img width="1563" height="1563" alt="P" src="https://github.com/user-attachments/assets/a00a83c1-2ca6-4b56-95cf-cd11018ed431" />
-" alt="Banner Profil">
+  <img src="<img width="1563" height="1563" alt="P" src="https://github.com/user-attachments/assets/ad57a85c-821c-47fa-b5cb-aa3484c80907" />" alt="Banner Profil">
 </p>
 <h1 align="center">Halo, saya Budi Santoso 👋</h1>
 <p align="center">
