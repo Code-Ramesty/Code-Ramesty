@@ -1,11 +1,9 @@
-## Hi there 👋
-
 <p align="center">
   <img width="4000" height="1825" alt="Tanpa judul (1280 x 584 piksel)" src="https://github.com/user-attachments/assets/803b182e-e62f-4799-8ee9-3e6438e1a447" />
 </p>
 <h1 align="center">Halo, saya Ramesty 👋</h1>
 <p align="center">
-  Seorang Web Developer dari Indonesia yang bersemangat dalam membangun aplikasi web yang modern dan bermanfaat.
+  Seorang Programer dari Indonesia yang bersemangat dalam membangun aplikasi, web, Dan Lain-lain yang modern dan bermanfaat.
 </p>
 
 - 🔭 Saat ini saya sedang mengerjakan ...
@@ -23,6 +21,9 @@
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+    <a href="https://https://www.python.org//" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
