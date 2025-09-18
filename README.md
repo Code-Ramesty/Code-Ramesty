@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img width="1280" height="1280" alt="P"src="https://github.com/user-attachments/assets/ad57a85c-821c-47fa-b5cb-aa3484c80907" />
+  <img width="4000" height="1825" alt="Tanpa judul (1280 x 584 piksel)" src="https://github.com/user-attachments/assets/803b182e-e62f-4799-8ee9-3e6438e1a447" />
 </p>
 <h1 align="center">Halo, saya Ramesty 👋</h1>
 <p align="center">
